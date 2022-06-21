@@ -1,0 +1,9 @@
+Auto Rename: this extension renames the closing tag of the element if you are changing the opening tag
+
+Color Highlight: this extension highlights the colours in a CSS file to make it clear which colour it is
+
+Image Preview: this extension shows a little image preview in the HTML document as you code
+
+Prettier: this extenstion fixes the layout and makes it more organized. Update the settings to do this on Save and make sure to enable Prettier as the Formatter. Also turn on Auto Save property.
+
+Live Server: this extension will create a local host server to make it easier to see the updated code. 
